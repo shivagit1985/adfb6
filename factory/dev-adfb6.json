@@ -1,0 +1,9 @@
+{
+	"name": "dev-adfb6",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0edd3bad-a8e8-44e4-be05-20e7d68e59ae",
+		"tenantId": "0fd1fc08-f43d-4c1b-bd0f-17a9128a60a4"
+	}
+}
